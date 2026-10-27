@@ -2,7 +2,7 @@
 
 Software engineer and UW–Madison Computer Engineering grad (May 2026). I build backend services, cloud apps, AI-powered tools, and real-time systems, and I like the whole path from prototype to deployed and tested.
 
-📍 Seattle, WA · [LinkedIn](https://www.linkedin.com/in/dhruv-kurpad/) · dhruv.kurpad@outlook.com
+📍 Seattle, WA · [LinkedIn](https://www.linkedin.com/in/dhruv-kurpad/)
 
 ---
 
